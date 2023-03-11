@@ -42,7 +42,7 @@ export default function Registerform() {
                   <label for="password">Confirm Password</label>
                   <input type="password" placeholder="Passwords should match" id="cpasswordreg"/>
 
-                   <button>Log In</button><br/><br/>
+                   <button>Register</button><br/><br/>
                    <p id="or">---------------</p>
                     <a href="#videoCamreg"><button id="facelog" onClick={openCam}>Register using face authentication</button></a>
                     <video id="videoCamreg"></video>

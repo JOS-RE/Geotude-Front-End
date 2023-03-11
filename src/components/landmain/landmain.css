@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+*{
+    font-family: 'Tilt Neon', cursive;
+}
+.landmain{
+   background-image: url(blob-scatter-haikei\ \(4\).svg);
+    background-size: cover;
+    padding-bottom:12%;
+}
+#landmainimg{
+    width:100%;
+    padding-top:5%;
+    
+}
+#landmainp{
+    font-size:50px;
+    color: #000;
+    padding-top: 25%;
+
+}
+#info{
+    padding-left: 3%;
+}
+
+#landmainp2{
+    font-size: 25px;
+    color: #000;
+    
+}
+.row{
+    padding-top:8%;
+    right: 0;
+}
