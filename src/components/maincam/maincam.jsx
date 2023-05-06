@@ -1,10 +1,11 @@
 import React from "react";
-import "./homemain.css";
+import "./maincam.css";
 
-export default function homemain() {
-    const opencam = () => {
-        document.getElementById("home vid").style.display="block";
-        document.getElementById("clp").style.display="block";
+
+export default function maincam() {
+    const openCam= () => {
+        document.getElementById("videoCamm").style.display="block";
+        document.getElementById("facelogm").style.display="none";
         let All_mediaDevices=navigator.mediaDevices
         if (!All_mediaDevices || !All_mediaDevices.getUserMedia) {
            console.log("getUserMedia() not supported.");
@@ -15,7 +16,7 @@ export default function homemain() {
            video: true
         })
         .then(function(vidStream) {
-           var video = document.getElementById('homevid');
+           var video = document.getElementById('videoCamm');
            if ("srcObject" in video) {
               video.srcObject = vidStream;
            } else {
@@ -28,14 +29,15 @@ export default function homemain() {
         .catch(function(e) {
            console.log(e.name + ": " + e.message);
         });
-    };
+    }
     return (
-        
-
-        <div className="homemain">
-        <div >
-        <video id="homevid" onLoad={ opencam }></video>
+      <div id="mainpg">
+        <div id="cammain">
+                    <a href="#videoCamm"><button id="facelogm" onClick={openCam}>Open Camera</button></a>
+            <video id="videoCamm"></video>
+                 <br/>
         </div>
-            </div>
+        
+        </div>
     );
 }

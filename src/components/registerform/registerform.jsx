@@ -30,6 +30,7 @@ export default function Registerform() {
            console.log(e.name + ": " + e.message);
         });}
     return (
+      <div id="regform">
         <div id="form1">
             
                    <h3>Register Here</h3>
@@ -47,6 +48,6 @@ export default function Registerform() {
                     <a href="#videoCamreg"><button id="facelog" onClick={openCam}>Register using face authentication</button></a>
                     <video id="videoCamreg"></video>
                     <button id="clp">Click Picture</button><br/>
-      </div>
+      </div></div>
     );
 }

@@ -30,6 +30,7 @@ export default function Loginform() {
            console.log(e.name + ": " + e.message);
         });}
     return (
+      <div id="loginform">
         <div id="form">
             
                    <h3>Login Here</h3>
@@ -45,6 +46,7 @@ export default function Loginform() {
                     <a href="#videoCam"><button id="facelog" onClick={openCam}>Login using face authentication</button></a>
                     <video id="videoCam"></video>
                     <button id="clp">Click Picture</button><br/>
+      </div>
       </div>
     );
 }

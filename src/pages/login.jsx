@@ -3,8 +3,8 @@ import Loginform from "../components/loginform/loginform";
 
 export default function login() {
     return (
-        <div>
+        <div >
             <Loginform />
         </div>
     );
-}
+}                      
