@@ -42,7 +42,7 @@ export default function home() {
                       <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                         <div className="h-64 w-44 overflow-hidden rounded-lg">
                           <img
-                            src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedmate.com.au%2Fonline-doctors%2F&psig=AOvVaw3VF1U6kKgTpUaVcUtaEJ0f&ust=1683994695473000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKj3s5-X8P4CFQAAAAAdAAAAABAt"
+                            src="https://ichef.bbci.co.uk/news/976/cpsprodpb/180CD/production/_116390589_gettyimages-1041981272.jpg"
                             alt=""
                             className="h-full w-full object-cover object-center"
                           />
