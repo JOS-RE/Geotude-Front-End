@@ -1,4 +1,5 @@
 import React from 'react';
+import logo2 from '../../logo3.png';
 
 export default function home() {
     return (
@@ -7,10 +8,12 @@ export default function home() {
           <div className="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
             <div className="sm:max-w-xl">
               <h1 className="font text-5xl font-bold tracking-tight text-gray-900 sm:text-5xl sm:max-w-xl">
-                Geotude.
+                {/* image here */}
+                {/* height of image is 2 em */}
+                <img src={logo2} alt="logo" className="h-23 w-30" />
               </h1>
               <p className="mt-4 text-xl text-gray-500 sm:max-w-lg">
-              Bringing the future of Healthcare to present.
+              Bringing the future of Healthcare to present. We provide a convenient and reliable way for patients to manage and access their medical information. Our goal is to help patients better manage their health by allowing them to easily save and update their information.
               </p>
             </div>
             <div>
