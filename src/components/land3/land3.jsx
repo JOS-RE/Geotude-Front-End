@@ -13,7 +13,7 @@ export default function home() {
         <div class="flex items-center gap-4">
           <img
             alt="Man"
-            src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
+            src= {require('../../assets/rambabu.png')}
             class="h-16 w-16 rounded-full object-cover"
           />
 
@@ -71,13 +71,12 @@ export default function home() {
               </svg>
             </div>
 
-            <p class="mt-1 text-lg font-medium text-gray-700">Paul Starr</p>
+            <p class="mt-1 text-lg font-medium text-gray-700">Rambabu Malgaya</p>
           </div>
         </div>
 
         <p class="line-clamp-2 sm:line-clamp-none mt-4 text-gray-500">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
-          voluptatem alias ut provident sapiente repellendus.
+        I was a bit skeptical about using this platform at first, but I am so glad I did. I had some concerns about my health and I didn't want to wait weeks to see a doctor. With this platform, I was able to have a video chat with a doctor the same day I signed up. The doctor was able to listen to my concerns, ask me some questions, and provide me with a diagnosis. I was impressed with how easy it was to use the platform and how knowledgeable the doctor was. I would definitely use this service again in the future.
         </p>
       </blockquote>
 
@@ -85,7 +84,7 @@ export default function home() {
         <div class="flex items-center gap-4">
           <img
             alt="Man"
-            src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
+            src={require('../../assets/mudit.jpg')}
             class="h-16 w-16 rounded-full object-cover"
           />
 
@@ -143,13 +142,12 @@ export default function home() {
               </svg>
             </div>
 
-            <p class="mt-1 text-lg font-medium text-gray-700">Paul Starr</p>
+            <p class="mt-1 text-lg font-medium text-gray-700">Mudit Paliwal</p>
           </div>
         </div>
 
         <p class="line-clamp-2 sm:line-clamp-none mt-4 text-gray-500">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
-          voluptatem alias ut provident sapiente repellendus.
+        This platform has been a lifesaver for me. I recently moved to a new city and I don't have a primary care physician yet. When I started experiencing some health issues, I didn't know where to turn. That's when I discovered this platform. I was able to connect with a doctor within minutes and have a video chat with them. The doctor was able to diagnose my condition and provide me with a treatment plan. I am so grateful for this service and I highly recommend it to anyone who needs medical care quickly and easily.
         </p>
       </blockquote>
 
@@ -157,7 +155,7 @@ export default function home() {
         <div class="flex items-center gap-4">
           <img
             alt="Man"
-            src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
+            src={require('../../assets/shri.png')}
             class="h-16 w-16 rounded-full object-cover"
           />
 
@@ -215,13 +213,12 @@ export default function home() {
               </svg>
             </div>
 
-            <p class="mt-1 text-lg font-medium text-gray-700">Paul Starr</p>
+            <p class="mt-1 text-lg font-medium text-gray-700">Shrimohan Tripathi</p>
           </div>
         </div>
 
         <p class="line-clamp-2 sm:line-clamp-none mt-4 text-gray-500">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
-          voluptatem alias ut provident sapiente repellendus.
+        I have been using this platform for a few months now and it has completely changed the way I access medical care. As someone with a chronic illness, it can be difficult to schedule appointments with doctors and travel to their offices. With this platform, I can have a video chat with a doctor from the comfort of my own home. The doctors I have spoken with have all been knowledgeable and compassionate, and they have provided me with excellent medical advice. I highly recommend this platform to anyone who wants to make accessing medical care more convenient.
         </p>
       </blockquote>
     </div>

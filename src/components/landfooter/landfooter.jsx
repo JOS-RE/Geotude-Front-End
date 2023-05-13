@@ -84,8 +84,7 @@ export default function Footer() {
         <p
           class="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500 lg:text-left"
         >
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt
-          consequuntur amet culpa cum itaque neque.
+          Modernizing, Digitalizing, Revolutionarizing Healthcare
         </p>
       </div>
 
@@ -121,7 +120,7 @@ export default function Footer() {
     </div>
 
     <p class="mt-12 text-center text-sm text-gray-500 lg:text-right">
-      Copyright &copy; 2022. All rights reserved.
+      Copyright &copy; 2023 Geotude. All rights reserved.
     </p>
   </div>
 </footer>
