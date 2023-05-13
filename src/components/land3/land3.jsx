@@ -84,7 +84,7 @@ export default function home() {
         <div class="flex items-center gap-4">
           <img
             alt="Man"
-            src="https://images.unsplash.com/photo-1595152772835-219674b2a8a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80"
+            src={require('../../assets/mudit.jpg')}
             class="h-16 w-16 rounded-full object-cover"
           />
 
