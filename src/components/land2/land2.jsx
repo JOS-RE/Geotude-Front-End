@@ -11,9 +11,7 @@ export default function land2(){
       </h2>
 
       <p className="mt-4 text-gray-500 sm:text-xl">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione dolores
-        laborum labore provident impedit esse recusandae facere libero harum
-        sequi.
+      Building trust through exceptional care. Trusted by patients and doctors alike, we deliver reliable healthcare solutions for peace of mind. Your health is our top priority.
       </p>
     </div>
 
