@@ -10,8 +10,7 @@ export default function home() {
                 Geotude.
               </h1>
               <p className="mt-4 text-xl text-gray-500 sm:max-w-lg">
-                This year, our new summer collection will shelter you from the harsh elements of a world that doesn't care
-                if you live or die.
+              Bringing the future of Healthcare to present.
               </p>
             </div>
             <div>
