@@ -2,3 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+#navbar{
+    background-color:#00acb1;
+}
+#login{
+    background-color:#fff;
+}
+#login:hover{
+    background-color: rgb(31 41 55);
+    color:white;
+    transition: ease-in-out 0.3s;
+}
