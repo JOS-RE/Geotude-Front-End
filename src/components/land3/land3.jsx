@@ -1,6 +1,6 @@
 import React from 'react';
 import "./land3.css";
-import Aboutimg from "./about-dec.png";
+import Aboutimg from "./Humaaans - Wireframe.png";
 export default function home() {
     return (
       <div id="about" class="about section">
@@ -17,15 +17,15 @@ export default function home() {
                           <div class="about-right-content">
                               <div class="section-heading">
                                   <h6>About Us</h6>
-                                  <h4>What is <em>AUTH - CODE ?</em></h4>
+                                  <h4>What is <em>GEOTUDE ?</em></h4>
                                   <div class="line-dec"></div>
                               </div>
-                              <p>The user can proceed to the authentication step using either of the two options :<br/> 
-                       – QR (Quick Response) code 
+                              <p>The user can proceed to the authentication step using either of the two options :<br/> <br/>
+                              ⭐ User Name
     <br />
-               – OTP (One Time Password).<br />
-                            As per the option selected by the user, the system will generate a QR Code or an OTP. Both the QR code and the OTP will be sent to the user’s mail id, After scanning that QR code user will get a safe and secure link of the site in which he will be logged in.
-
+    ⭐ Facial Recognition<br /><br />
+                            
+The system provides users with the capability to engage with it through voice and facial recognition, enabling them to securely store personal and medical information in a centralized location. The system also grants access to authorized medical professionals who have been thoroughly vetted and approved by the system's administrative panel, facilitating seamless and convenient retrieval of information from anywhere at any time.
                              </p>
                               <div class="row">
                                   <div class="col-lg-4 col-sm-4">

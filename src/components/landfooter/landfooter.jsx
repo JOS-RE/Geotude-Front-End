@@ -48,26 +48,18 @@ export default function Footer() {
           class="flex flex-wrap justify-center gap-6 md:gap-8 lg:justify-end lg:gap-12"
         >
           <li>
-            <a class="text-gray-700 transition hover:text-gray-700/75" href="/">
-              About
+            <a class="text-gray-700 transition hover:text-gray-700/75" href="https://github.com/EPICS-PROJECT">
+              Github
             </a>
           </li>
 
-          <li>
-            <a class="text-gray-700 transition hover:text-gray-700/75" href="/">
-              Services
-            </a>
-          </li>
+         
+
+          
 
           <li>
-            <a class="text-gray-700 transition hover:text-gray-700/75" href="/">
-              Projects
-            </a>
-          </li>
-
-          <li>
-            <a class="text-gray-700 transition hover:text-gray-700/75" href="/">
-              Blog
+            <a class="text-gray-700 transition hover:text-gray-700/75" href="mailto:team9smc@gmail.com">
+              Mail Us
             </a>
           </li>
         </ul>

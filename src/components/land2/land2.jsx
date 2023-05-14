@@ -3,7 +3,7 @@ import "./land2.css";
 
 export default function land2(){
     return(
-        <section className="bg-slate-100" >
+        <section className="bg-slate-100" id="connection">
   <div className="mx-auto max-w-screen-xl px-4 py-12 sm:px-6 md:py-16 lg:px-8" id="land2">
     <div className="mx-auto max-w-3xl text-center">
       <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">
@@ -25,7 +25,7 @@ export default function land2(){
           </dt>
 
           <dd className="text-4xl font-extrabold text-blue-600 md:text-5xl">
-            256
+            6
           </dd>
         </div>
 
@@ -34,7 +34,7 @@ export default function land2(){
             Official Doctors
           </dt>
 
-          <dd className="text-4xl font-extrabold text-blue-600 md:text-5xl">24</dd>
+          <dd className="text-4xl font-extrabold text-blue-600 md:text-5xl">3</dd>
         </div>
 
         <div className="flex flex-col px-4 py-8 text-center">
@@ -42,7 +42,7 @@ export default function land2(){
             Total Hospitals
           </dt>
 
-          <dd className="text-4xl font-extrabold text-blue-600 md:text-5xl">8</dd>
+          <dd className="text-4xl font-extrabold text-blue-600 md:text-5xl">2</dd>
         </div>
       </dl>
     </div>

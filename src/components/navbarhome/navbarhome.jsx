@@ -25,7 +25,7 @@ export default function navbarhome(){
             <li>
               <a
                 className="text-gray-500 transition hover:text-gray-500/75 dark:text-white dark:hover:text-white/75"
-                href="/"
+                href="#connection"
               >
                 Connections
               </a>
@@ -34,20 +34,13 @@ export default function navbarhome(){
             <li>
               <a
                 className="text-gray-500 transition hover:text-gray-500/75 dark:text-white dark:hover:text-white/75"
-                href="#testimonials"
-              >
-                Testimony
-              </a>
-            </li>
-
-            <li>
-              <a
-                className="text-gray-500 transition hover:text-gray-500/75 dark:text-white dark:hover:text-white/75"
-                href="/"
+                href="#about"
               >
                 About
               </a>
             </li>
+
+            
           </ul>
         </nav>
 
@@ -57,17 +50,9 @@ export default function navbarhome(){
               className="rounded-md  px-5 py-2.5 text-sm font-medium shadow " id="login"
               href="/"
             >
-              Login
+              Get Started
             </a>
 
-            <div className="hidden sm:flex">
-              <a
-                className="rounded-md px-5 py-2.5 text-sm font-medium text-teal-600 dark:bg-gray-800 dark:text-white dark:hover:text-black dark:hover:bg-gray-100 shadow transition ease-in-out duration-150"
-                href="/"
-              >
-                Register
-              </a>
-            </div>
           </div>
 
           <div className="block md:hidden">

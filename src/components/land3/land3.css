@@ -3,7 +3,9 @@
 
 /*--------------------------------------------------------------------*/
 
-
+#about{
+    margin-bottom:5%;
+}
 
 
 
@@ -15,7 +17,7 @@
 .section-heading h6 {
     font-size: 15px;
     font-weight: 700;
-    color: #726ae3;
+    color: #00acb1;
     text-transform: uppercase;
     margin-bottom: 15px;
 }
@@ -30,14 +32,14 @@
 
 .section-heading h4 em {
     font-style: normal;
-    color: #726ae3;
+    color: #00acb1;
     font-family: 'Poppins', sans-serif;
 }
 
 .section-heading .line-dec {
     width: 50px;
     height: 2px;
-    background-color: #726ae3;
+    background-color: #00acb1;
 }
 .about-right-content p {
     margin-top: 30px;
@@ -49,7 +51,7 @@
 
 
 .about-left-image img {
-    margin-right: 45px;
+    margin-left: 130px;
 }
 
 .about-right-content p {
