@@ -49,7 +49,7 @@ export default function Footer() {
         >
           <li>
             <a class="text-gray-700 transition hover:text-gray-700/75" href="https://github.com/EPICS-PROJECT">
-              Github
+            Github
             </a>
           </li>
 
