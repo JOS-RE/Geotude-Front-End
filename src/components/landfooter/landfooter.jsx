@@ -10,7 +10,7 @@ export default function Footer() {
   >
     <div class="absolute top-4 right-4 sm:top-6 sm:right-6 lg:top-8 lg:right-8">
       <a
-        class="inline-block rounded-full bg-teal-600 p-2 text-white shadow transition hover:bg-teal-500 sm:p-3 lg:p-4"
+        class="inline-block rounded-full bg-blue-600 p-2 text-white shadow transition hover:bg-blue-500 sm:p-3 lg:p-4"
         href="#navbar"
       >
         <span class="sr-only">Back to top</span>
@@ -67,7 +67,7 @@ export default function Footer() {
     </div>
 
     <p class="mt-12 text-center text-sm text-gray-500 lg:text-right">
-      Copyright &copy; 2023 Geotude. All rights reserved.
+      Copyright &copy; 2024 Webgen. All rights reserved.
     </p>
   </div>
 </footer>

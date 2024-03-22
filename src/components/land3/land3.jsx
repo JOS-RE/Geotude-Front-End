@@ -17,7 +17,7 @@ export default function home() {
                           <div class="about-right-content">
                               <div class="section-heading">
                                   <h6>About Us</h6>
-                                  <h4>What is <em>GEOTUDE ?</em></h4>
+                                  <h4>What is <em>WEBGEN ?</em></h4>
                                   <div class="line-dec"></div>
                               </div>
                               <p>The user can proceed to the authentication step using either of the two options :<br/> <br/>

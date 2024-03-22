@@ -24,7 +24,7 @@ export default function navbarhome(){
           <ul className="flex items-center gap-6 text-sm">
             <li>
               <a
-                className="text-gray-500 transition hover:text-gray-500/75 dark:text-white dark:hover:text-white/75"
+                className="text-white-500 transition hover:text-gray-500/75 dark:text-white dark:hover:text-white/75"
                 href="#connection"
               >
                 Connections
@@ -33,7 +33,7 @@ export default function navbarhome(){
 
             <li>
               <a
-                className="text-gray-500 transition hover:text-gray-500/75 dark:text-white dark:hover:text-white/75"
+                className="text-white-500 transition hover:text-gray-500/75 dark:text-white dark:hover:text-white/75"
                 href="#about"
               >
                 About
